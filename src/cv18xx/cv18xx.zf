@@ -1,0 +1,1 @@
+: led-pinmux-setup pinmux-gpio-mode pinmux-sd0-pwr-en reg32! ;

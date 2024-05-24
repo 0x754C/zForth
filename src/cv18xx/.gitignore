@@ -1,0 +1,9 @@
+*~
+*.E
+*.dis
+*.bin
+*.elf
+compile_commands.json
+.cache/
+rom_usb_dl/__pycache__/*
+rom_usb_dl/cv_usb_util/__pycache__/*
